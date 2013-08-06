@@ -6,6 +6,9 @@ A growing collection of articles, tutorials, and other programming-related writi
 
 * RVM for your Ruby projects - ([CoderWall ProTip](https://coderwall.com/p/812law))
 * Going back to MINSWAN Roots - (Unfinished)
+* Dealing with ADHD - (Unfinished)
+* Becoming a better developer by using Github - (Unfinished)
+* Holy Ruby: 10 Awesome Ruby Tricks (OpenStruct, Hash.new*, *'', )
 
 ## Author
   * [Jonah Ruiz](http://www.pixelhipsters.com)
