@@ -2,14 +2,17 @@
 
 A growing collection of articles, tutorials, and other programming-related writings.
 
+All posts are on my blog [HolyRuby](http://www.holyruby.com) and my [CoderWall](https://coderwall.com/jonahoffline) profile.
+
 ## List
 
 * RVM for your Ruby projects - ([CoderWall ProTip](https://coderwall.com/p/812law))
 * RSpec Test Results in HTML - ([CoderWall ProTip](https://coderwall.com/p/gfmeuw))
-* Going back to MINSWAN Roots - (Unfinished)
-* Dealing with ADHD - (Unfinished)
-* Becoming a better developer by using Github - (Unfinished)
-* Holy Ruby: 10 Awesome Ruby Tricks (OpenStruct, Hash.new*, *'', )
+* We Are Deprecateware - ([CoderWall ProTip](https://coderwall.com/p/9clglg))
+* *Going back to MINSWAN Roots - (Unfinished)*
+* *Dealing with ADHD - (Unfinished)*
+* *Becoming a better developer by using Github - (Unfinished)*
+* *Holy Ruby: 10 Awesome Ruby Tricks - (Unfinished)*
 
 ## Author
   * [Jonah Ruiz](http://www.pixelhipsters.com)
