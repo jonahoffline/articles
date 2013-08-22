@@ -9,6 +9,7 @@ All posts are on my blog [HolyRuby](http://www.holyruby.com) and my [CoderWall](
 * RVM for your Ruby projects - ([CoderWall ProTip](https://coderwall.com/p/812law))
 * RSpec Test Results in HTML - ([CoderWall ProTip](https://coderwall.com/p/gfmeuw))
 * We Are Deprecateware - ([CoderWall ProTip](https://coderwall.com/p/9clglg))
+* A Mind Prison - ([CoderWall ProTip](https://coderwall.com/p/acut8w))
 * *Going back to MINSWAN Roots - (Unfinished)*
 * *Dealing with ADHD - (Unfinished)*
 * *Becoming a better developer by using Github - (Unfinished)*
