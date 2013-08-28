@@ -10,6 +10,7 @@ All posts are on my blog [HolyRuby](http://www.holyruby.com) and my [CoderWall](
 * RSpec Test Results in HTML - ([CoderWall ProTip](https://coderwall.com/p/gfmeuw))
 * We Are Deprecateware - ([CoderWall ProTip](https://coderwall.com/p/9clglg))
 * A Mind Prison - ([CoderWall ProTip](https://coderwall.com/p/acut8w))
+* The Science of Fucking Up - ([CoderWall ProTip](https://coderwall.com/p/v9jr-a))
 * *Going back to MINSWAN Roots - (Unfinished)*
 * *Dealing with ADHD - (Unfinished)*
 * *Becoming a better developer by using Github - (Unfinished)*
