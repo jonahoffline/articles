@@ -6,11 +6,12 @@ All posts are on my blog [HolyRuby](http://www.holyruby.com) and my [CoderWall](
 
 ## List
 
-* RVM for your Ruby projects - ([CoderWall ProTip](https://coderwall.com/p/812law))
-* RSpec Test Results in HTML - ([CoderWall ProTip](https://coderwall.com/p/gfmeuw))
-* We Are Deprecateware - ([CoderWall ProTip](https://coderwall.com/p/9clglg))
-* A Mind Prison - ([CoderWall ProTip](https://coderwall.com/p/acut8w))
-* The Science of Fucking Up - ([CoderWall ProTip](https://coderwall.com/p/v9jr-a))
+* RVM for your Ruby projects - ([CoderWall ProTip](https://coderwall.com/p/812law), [Holy Ruby](http://holyruby.com/rvm-for-your-ruby-projects/))
+* RSpec Test Results in HTML - ([CoderWall ProTip](https://coderwall.com/p/gfmeuw), [Holy Ruby](http://holyruby.com/rspec-test-results-in-html/))
+* We Are Deprecateware - ([CoderWall ProTip](https://coderwall.com/p/9clglg), [Holy Ruby](http://holyruby.com/we-are-deprecateware/))
+* A Mind Prison - ([CoderWall ProTip](https://coderwall.com/p/acut8w), [Holy Ruby](http://holyruby.com/a-mind-prison/))
+* The Science of Fucking Up - ([CoderWall ProTip](https://coderwall.com/p/v9jr-a), [Holy Ruby](http://holyruby.com/the-science-of-fucking-up/))
+* Book Review: Instant Nokogiri - ([Holy Ruby](http://holyruby.com/book-review-instant-nokogiri/))
 * *Going back to MINSWAN Roots - (Unfinished)*
 * *Dealing with ADHD - (Unfinished)*
 * *Becoming a better developer by using Github - (Unfinished)*
